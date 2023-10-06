@@ -1,0 +1,84 @@
+body {
+    background-image: url("black.png");
+}
+
+.tarolo {
+    max-width: 900px;
+    width: 90%;
+    margin:0 auto;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 10pt;
+}
+
+.fejlec {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 0pt;
+}
+
+.fejlec img {
+    width: 100%;
+    margin-bottom: 0pt;
+}
+
+.nav {
+    background-color: rgb(53, 52, 52);
+    padding: 12pt 2pt 12pt 0pt;
+    margin-top: 0pt;
+    border-bottom: 2.3pt solid rgb(126, 126, 126);
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12pt;
+    text-align: center;
+    margin-top: 0pt;
+    border-right: 2pt solid rgb(126, 126, 126);
+    margin-left: 0pt;
+}
+
+.nav a:hover {
+    background-color: orange;
+}
+
+.tartalom {
+    background-color: rgb(216, 212, 207);
+    margin-bottom: 0pt;
+    height: 400pt;
+    margin-top: 0pt;
+}
+
+.tartalom h1 {
+    padding: 20pt 5pt 20pt 10pt;
+    margin-top: 0pt;
+}
+
+.tartalom p {
+    padding: 5pt 5pt 20pt 10pt;
+    text-align: justify;
+}
+
+.tartalom ul {
+    margin-bottom: 0pt;
+}
+
+.tartalom img {
+    max-width: 200pt;
+    float: right;
+    padding: 10pt 15pt 0pt 15pt;
+}
+
+.lablec {
+    background-color: orange;
+    margin-top: 0pt;
+    text-align: center;
+}
+
+.lablec p {
+    margin-top: 0pt;
+}
+
+.stopfloat {
+    clear: both;
+}
